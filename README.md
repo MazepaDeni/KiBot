@@ -1,4 +1,4 @@
-kivi1232# KiBot (formerly KiPlot)
+kivi1232 # KiBot (formerly KiPlot)
 
 ![KiBot Logo](https://raw.githubusercontent.com/INTI-CMNB/KiBot/dev/docs/images/kibot_740x400_logo.png)
 
